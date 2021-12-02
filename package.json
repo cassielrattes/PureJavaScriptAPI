@@ -1,0 +1,13 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "npx nodemon src/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
